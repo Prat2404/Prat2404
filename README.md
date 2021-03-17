@@ -5,11 +5,11 @@
  <br>
 🌱 I’m currently learning Android Development
 <br>
-<a href="https://github.com/Prat2404/Prat2404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prat2404&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prateek's GitHub Stats" />
-</a>
+### 🐱My Github stats:
+![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=Prat2404&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prat2404.Prat2404)
+[![Github](https://img.shields.io/github/followers/Prat2404?label=Followers&logo=Github)](https://github.com/Prat2404)
 ### 💞️ Connect with me:
 [<img align="left" alt="Prat2404 | linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Prat2404 | mail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] 
